@@ -23,9 +23,6 @@ O projeto organiza obras em estruturas eficientes e sugere conexões entre elas,
 - `SistemaRecomendacao.java` → Implementa a lógica de recomendação.  
 - `Main.java` → Classe principal para execução.  
 
-## 📸 Demonstração
-*(adicione aqui prints ou GIFs do programa rodando no terminal)*
-
 ```bash
 javac Main.java
 java Main
